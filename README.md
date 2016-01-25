@@ -1,2 +1,2 @@
 # Practical_1
-test
+Practical 1
